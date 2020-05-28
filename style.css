@@ -1,0 +1,40 @@
+h1{
+	font-family:Impact, Charcoal, sans-serif;
+	font-size:30px;
+	text-align:center;
+	text-decoration:underline;
+   }
+ body{
+	 background-color:red;
+	 font-size:20px;
+	 font-weight:bolder;
+	 }
+
+input {
+	 margin-top:10px;
+	 height:20px;
+      }	 
+input[placeholder="AGE IN MONTHS"]{
+	text-align:center;
+	 }
+input[placeholder="AGE IN DAYS"]{
+	text-align:center;
+	 }
+input[placeholder="AGE IN MINUTES"]{
+	text-align:center;
+	 }	
+input[placeholder="AGE IN SECONDS"]{
+	text-align:center;
+	 }
+input[placeholder="ENTER YOUR AGE"]{
+	text-align:center;
+	 }
+input[placeholder="AGE IN HOURS"]{
+	text-align:center;
+	 }	 
+
+input[type="submit"]{
+	 font-weight:bolder; 
+	 float:right;
+	 height:30px;
+     }
